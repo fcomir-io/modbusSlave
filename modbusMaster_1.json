@@ -1,0 +1,14 @@
+{
+  "host": "localhost",
+  "port": 11503,
+  "data": [
+    {
+      "type": "coil",
+      "address": 1520
+    },
+    {
+      "type": "register",
+      "address": 1020
+    }
+  ]
+}
